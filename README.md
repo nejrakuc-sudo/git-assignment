@@ -76,8 +76,8 @@ git push origin development
 # View repository history
 git log --oneline --graph --all
 
-![Phase 1 Screenshot](screenshots/1)
-![Phase 1 Screenshot](screenshots/2)
-![Phase 1 Screenshot](screenshots/3)
-![Phase 1 Screenshot](screenshots/4)
-![Phase 1 Screenshot](screenshots/5)
+![Phase 1 Screenshot](screenshots/1.png)
+![Phase 1 Screenshot](screenshots/2.png)
+![Phase 1 Screenshot](screenshots/3.png)
+![Phase 1 Screenshot](screenshots/4.png)
+![Phase 1 Screenshot](screenshots/5.png)
